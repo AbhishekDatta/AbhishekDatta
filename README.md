@@ -86,5 +86,6 @@ Open to discussing:
 
 - **LinkedIn**: [linkedin.com/in/a-datta](https://www.linkedin.com/in/a-datta/)
 - **Medium**: [@AbhishekDatta22](https://medium.com/@AbhishekDatta22)
+- **Email**: contactabhishekdatta@gmail.com
 
 If you're fighting fires in production or want to make your systems more resilient, I'm happy to chat. I've probably broken and fixed the same thing you're dealing with.
