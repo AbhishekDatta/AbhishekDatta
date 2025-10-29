@@ -15,7 +15,7 @@ Breaking things on purpose so they don't break by accident. Reduced high severit
 Keeping production running when everyone else is asleep. Built monitoring, automation, and incident response systems that cut MTTD by 37% and MTTR by 28%.
 
 **Cloud & Infrastructure**  
-13 years deep in AWS, managing everything from a few servers to massive distributed systems. Saved companies $9M+ through smart automation and resource optimization.
+15 years deep in AWS, managing everything from a few servers to massive distributed systems. Saved companies $9M+ through smart automation and resource optimization.
 
 **DevOps & Platform Engineering**  
 Built CI/CD pipelines that took deployment time from days to minutes. Made developers 3x more productive by removing friction and automating the boring stuff.
@@ -38,13 +38,13 @@ Mentored teams from 4 to 50+ engineers across the US, India, China, and Australi
 ## Tech I Work With
 
 **Chaos Engineering**: Gremlin (certified), Litmus Chaos, Chaos Monkey, custom Python tools  
-**Cloud**: AWS (Solution Architect certified), 13 years of production experience  
+**Cloud**: AWS (Solution Architect certified), 15 years of production experience  
 **Containers**: Kubernetes, Docker, EKS, ECS, Fargate, Helm, Istio  
 **Infrastructure as Code**: Terraform, AWS CloudFormation  
-**CI/CD**: Jenkins, ArgoCD, GitOps workflows  
+**CI/CD**: Jenkins, ArgoCD, GitOps workflows, MLOps  
 **Monitoring**: Datadog, Prometheus, Grafana, CloudWatch, New Relic, Splunk, ELK  
 **Programming**: Python (automation, ML, chatbots), Bash  
-**AI/ML**: AWS Bedrock, Sagemaker, building LLM powered tools for SRE
+**AI/ML**: AWS Bedrock, Sagemaker, building LLM powered tools for SRE, AIOps
 
 ## What I Write About
 
